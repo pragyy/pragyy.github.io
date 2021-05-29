@@ -1,0 +1,4 @@
+#A9B0CB - violet
+#E5E7E8 - grey
+#EEB6B4 - pink
+#FAF9F6 - white
